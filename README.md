@@ -230,7 +230,7 @@ AR技術を通じて、地域特性を生かし、自然と共生する都市開
 ---
 
 ## 連絡先
-**このプロジェクトに関する質問や提案がある場合は、[Issues](https://github.com/weuse1324/AR-Vsion-City) にてお知らせください。**
+**このプロジェクトに関する質問や提案がある場合は、[Issues](https://github.com/weuse1324/AR-Vsion-City/issues) にてお知らせください。**
 
 ---
 
